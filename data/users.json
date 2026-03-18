@@ -1,0 +1,10 @@
+[
+  {
+    "id": "75533bbe-cba0-4571-8ed4-955d7bd007e1",
+    "username": "tracy",
+    "email": "tracy@test.com",
+    "password": "$2a$10$nJfoYxP6vE.2RDf4btVJoOHBULseSNsSU/8I1.yBTX6Rs1gJB1jva",
+    "role": "teacher",
+    "createdAt": "2026-03-18T10:05:41.865Z"
+  }
+]
